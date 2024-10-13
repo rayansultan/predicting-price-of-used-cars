@@ -1,5 +1,5 @@
-![# Regression of Used Car Prices](https://global.toyota/pages/news/images/2015/10/01/1330/crwa1510_28_s.jpg)
-
+![](https://global.toyota/pages/news/images/2015/10/01/1330/crwa1510_28_s.jpg)
+# Regression of Used Car Prices
 ## Overview:
 - This project is part of a Kaggle competition focused on predicting the prices of used cars using machine learning models. The dataset for this competition was generated from a deep learning model trained on the "Used Car Price Prediction Dataset." The objective was to accurately predict car prices based on several features, while applying different data science techniques, including Exploratory Data Analysis (EDA), Feature Engineering, Data Transformation, and Model Training.
 
