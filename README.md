@@ -1,5 +1,5 @@
+![# Regression of Used Car Prices](https://global.toyota/pages/news/images/2015/10/01/1330/crwa1510_28_s.jpg)
 
-# Regression of Used Car Prices
 ## Overview:
 - This project is part of a Kaggle competition focused on predicting the prices of used cars using machine learning models. The dataset for this competition was generated from a deep learning model trained on the "Used Car Price Prediction Dataset." The objective was to accurately predict car prices based on several features, while applying different data science techniques, including Exploratory Data Analysis (EDA), Feature Engineering, Data Transformation, and Model Training.
 
@@ -28,4 +28,5 @@ Two models were trained on the dataset to predict the car prices:
 - Random Forest: A more advanced ensemble learning technique, Random Forest, was used to improve the predictive performance.
 ## Results and Analysis:
 Linear Regression: Despite being a simple model, linear regression provided valuable insights with a respectable R-squared score of 0.5994. However, the model showed some underfitting, likely due to the complex relationships in the data.
+
 Random Forest: This model outperformed linear regression with an R-squared of 0.6353, indicating a better fit for the data. The reduction in MAE and RMSE values showed that Random Forest made more accurate predictions with fewer errors.
